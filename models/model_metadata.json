@@ -1,0 +1,9 @@
+{
+  "selected_primary_model": "Weighted logistic regression",
+  "selection_metric": "2024 five-fold out-of-fold PR-AUC",
+  "selected_threshold": 0.7061931883155925,
+  "2024_cross_validation_PR_AUC": 0.12887317020118286,
+  "2025_temporal_test_PR_AUC": 0.10306567864650715,
+  "catboost_role": "Secondary nonlinear model for SHAP explanation",
+  "random_state": 42
+}
